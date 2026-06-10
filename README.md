@@ -55,6 +55,7 @@ Synthetic dataset generated using Python's Faker library simulating a realistic 
 
 ## Project Structure
 
+```
 ├── data/
 │   ├── cleaned/          # Cleaned CSV files
 │   └── EDA/              # Raw data files
@@ -68,8 +69,7 @@ Synthetic dataset generated using Python's Faker library simulating a realistic 
 ├── 02_data_cleaning.ipynb
 ├── dashboards.pbix
 └── README.md
-
----
+```
 
 ## Data Pipeline
 Python (Data Generation)
