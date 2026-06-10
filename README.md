@@ -91,8 +91,14 @@ Four structured SQL files covering:
 
 ## Dashboard Pages
 1. **MRR Overview** — Revenue trend, MRR by plan, growth rate, KPI cards
+
+   
 2. **Churn Analysis** — Monthly churn trend, churn by plan, churn reasons breakdown
+
+
 3. **Cohort Analysis** — Cohort churn rates, cohort size comparison
+
+
 4. **Plan Performance** — Revenue distribution, customer lifetime, upgrade flow
 
 ---
